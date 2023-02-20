@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f657f76043b4b46b1af4b1a02859c355, type: 3}
-  m_Name: 1_Asuka
+  m_Name: 5_bai
   m_EditorClassIdentifier: 
-  cardName: Asuka
-  pairName: Yoda
-  cardImage: {fileID: 0}
+  cardName: bai
+  pairName: qi
+  cardImage: {fileID: 21300000, guid: 634384b71e5f3b54f99592270ee90e03, type: 3}
